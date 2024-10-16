@@ -3,7 +3,7 @@ HART - Your Experience Planning Chatbot
 Setup Instructions
 
 
-Make Sure that Python is Installed on your sysgem Golbally.
+Make Sure that Python is Installed on your system Golbally.
 
 Make sure you have a file named full_experience_list.json in your project directory. This file should contain a list of experiences in the following format:
 
