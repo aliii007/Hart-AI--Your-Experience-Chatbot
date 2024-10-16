@@ -1,11 +1,24 @@
 # Hart-AI--Your-Experience-Chatbot
 HART - Your Experience Planning Chatbot
 Setup Instructions
+
+
+Make Sure that Python is Installed on your sysgem Golbally.
+
+Make sure you have a file named full_experience_list.json in your project directory. This file should contain a list of experiences in the following format:
+
+json
+
+[
+  {
+    "Experience": "Skydiving",
+    "Description": "Jump out of a plane and experience freefall.",
+    "Experience_Type": "Adventure"
+  },
+  ...
+]
+
 1. Clone the Repository
-
-
-git clone https://github.com/yourusername/your-repository-name.git
-cd your-repository-name
 
 
 
